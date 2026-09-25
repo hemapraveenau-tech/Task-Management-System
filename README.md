@@ -1,18 +1,25 @@
 Task Management System:-
+
 Description:
 A simple Python-based Task Management System designed to manage and track tasks easily.
+
 Features:
+
 Add new tasks
 View available tasks
 Manage completed tasks
 Separate Admin and User options
 Simple menu-driven interface
+
 Technologies Used:
+
 Python
 Lists
 Loops
 Conditional Statements
+
 How to Run:
+
 Open the Python file.
 Run the program.
 Select the required option from the menu.
